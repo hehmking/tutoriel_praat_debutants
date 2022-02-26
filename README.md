@@ -2,7 +2,7 @@
 #### [Hannah King](mailto:hannahhmking@gmail.com?subject=[GitHub]%20Tutoriel%20Praat)
 Ce tutoriel a pour but de vous introduire au logiciel Praat (www.praat.org), de son installation jusqu'à la programmation, afin de réaliser vos propres analyses acoustiques pour la recherche en phonétique. La brochure a été développée pour les travaux dirigés du cours de Phonétique du Master Recherche en Sciences du langage à [l’Université de Paris](https://u-paris.fr/) (2018-2019), mais elle pourrait servir de guide à d’autres utilisateurs débutants de Praat. Les [fichiers associés](https://github.com/hehmking/tutoriel_praat_debutants/tree/fichiers) ainsi que [la brochure](https://github.com/hehmking/tutoriel_praat_debutants/blob/brochure/brochure_Praat_d%C3%A9butants_HKing_2018.docx) sont à télécharger au préalable. 
 
-La brochure contient des explications ainsi que des exercices. Les onze cours sont à suivre l’un après l’autre, les exercices devant être effectuer au fur et à mesure de l’apprentissage.
+La brochure contient des explications ainsi que des exercices. Les onze cours sont à suivre l’un après l’autre, les exercices devant être effectués au fur et à mesure de l’apprentissage.
 
 ## Sommaire
 

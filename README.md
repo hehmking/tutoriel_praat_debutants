@@ -14,10 +14,10 @@ La brochure contient des explications ainsi que des exercices. Les onze cours so
 Objectifs : Explorer les fonctionnalités de base de Praat ; apprendre à installer Praat, l’ouvrir, créer et enregistrer un son, le jouer, le visualiser, l’annoter et le manipuler.
 
 #### Cours 2 : Introduction à la segmentation
-Objectifs : Segmenter et annoter les enregistrements de la parole dans Praat ; créer des TextGrids ; faire une annotation manuelle et une annotation automatique.
+Objectifs : Segmenter et annoter les enregistrements de la parole dans Praat ; créer des TextGrids ; effectuer une annotation manuelle et une annotation automatique.
 
 #### Cours 3 : Premières analyses acoustiques - durée
-Objectifs : Récupérer les données à partir des annotations effectuées ; faire une segmentation manuelle à partir de l'oscillogramme ; créer des graphiques dans Praat Picture.
+Objectifs : Récupérer les données à partir des annotations effectuées ; effectuer une segmentation manuelle à partir de l'oscillogramme ; créer des graphiques dans Praat Picture.
 
 #### Cours 4 : Lecture des spectrogrammes - consonnes orales et voisement
 Objectifs : Reconnaitre les indices acoustiques des consonnes orales et du voisement.

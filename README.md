@@ -1,5 +1,5 @@
 # Tutoriel Praat pour débutants
-Ce tutoriel a été développé pour les travaux dirigés du cours de Master de Phonétique à l'Université de Paris (2018). Il peut néanmoins servir de guide à d’autres utilisateurs débutants de Praat (www.praat.org) pour commencer les analyses acoustiques de la parole.
+Ce tutoriel a été développé pour les travaux dirigés du cours de Master de Phonétique à l'Université de Paris (2018). Il peut néanmoins servir de guide à d’autres utilisateurs débutants de Praat (www.praat.org) pour les analyses acoustiques de la parole.
 
 Le tutoriel est composé de 11 cours et 3 devoirs. L'idée, c'est de suivre les 11 cours l’un après l’autre et de travailler tous les exercices au fur et à mesure. 
 

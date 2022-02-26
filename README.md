@@ -8,7 +8,7 @@ Ce tutoriel a pour but de vous introduire au logiciel [Praat](https://www.fon.hu
 
 La brochure contient des explications ainsi que des exercices. Les onze cours sont à suivre l’un après l’autre, les exercices devant être effectués au fur et à mesure de l’apprentissage.
 
-## Sommaire
+### Sommaire
 
 #### Cours 1 : Mes premiers pas avec Praat
 Objectifs : Explorer les fonctionnalités de base de Praat ; apprendre à installer Praat, l’ouvrir, créer et enregistrer un son, le jouer, le visualiser, l’annoter et le manipuler.

@@ -1,9 +1,5 @@
 # Tutoriel Praat pour débutants
-Ce tutoriel a été développé pour les travaux dirigés du cours de Master de Phonétique à l'Université de Paris (2018). Il peut néanmoins servir de guide à d’autres utilisateurs débutants de Praat (www.praat.org) pour commencer les analyses acoustiques de la parole.
-
-Le tutoriel est composé de 11 cours et 3 devoirs. L'idée, c'est de suivre les 11 cours l’un après l’autre et de travailler tous les exercices au fur et à mesure. 
-
-Les fichiers associés sont à télécharger à préalable. 
+Ce tutoriel a pour but de vous introduiore au logiciel Praat (www.praat.org) afin de réaliser vos propres analyses acoustiques de la parole de l'installation du logiciel jusqu'à la programmation. La brochure a été développée pour les travaux dirigés du cours de Phonétique du Master Recherche en Sciences du langage à l’Université Paris Diderot (2018-2019), mais elle pourrait servir de guide à d’autres utilisateurs débutants de Praat. Les [fichiers associés](https://github.com/hehmking/tutoriel_praat_debutants/tree/fichiers) sont à télécharger au préalable. Ce tutoriel contient des explications ainsi que des exercices. Les onze cours sont à suivre l’un après l’autre, les exercices devant être effectuer au fur et à mesure de l’apprentissage. 
 
 ## Sommaire
 

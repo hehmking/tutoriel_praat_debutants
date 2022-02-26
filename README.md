@@ -3,7 +3,7 @@ Ce tutoriel a été développé pour les travaux dirigés du cours de Master de 
 
 Le tutoriel est composé de 11 cours et 3 devoirs. L'idée, c'est de suivre les 11 cours l’un après l’autre et de travailler tous les exercices au fur et à mesure. 
 
-Les fichiers associés sont à télécharger à préalable. 
+Les fichiers associés sont à télécharger au préalable (https://github.com/hehmking/tutoriel_praat_debutants/tree/fichiers). 
 
 ## Sommaire
 

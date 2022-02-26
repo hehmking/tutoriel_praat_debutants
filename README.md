@@ -1,5 +1,5 @@
-# tutoriel_praat_debutants
+# Tutoriel Praat pour débutants
 
-## Fichiers
+## Fichiers associés
 
 Veuillez télécharger tous les fichiers avant de commencer. 

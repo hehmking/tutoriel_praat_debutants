@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.375351473922903 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Vowel" 
+        xmin = 0 
+        xmax = 7.375351473922903 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.28561502963758606 
+            text = "" 
+        intervals [2]:
+            xmin = 0.28561502963758606 
+            xmax = 0.5880637440161249 
+            text = "i:" 
+        intervals [3]:
+            xmin = 0.5880637440161249 
+            xmax = 1.1624483828619165 
+            text = "" 
+        intervals [4]:
+            xmin = 1.1624483828619165 
+            xmax = 1.3938662131519275 
+            text = "\ic" 
+        intervals [5]:
+            xmin = 1.3938662131519275 
+            xmax = 2.183912176956765 
+            text = "" 
+        intervals [6]:
+            xmin = 2.183912176956765 
+            xmax = 2.45291162165234 
+            text = "\ef" 
+        intervals [7]:
+            xmin = 2.45291162165234 
+            xmax = 3.057309636322722 
+            text = "" 
+        intervals [8]:
+            xmin = 3.057309636322722 
+            xmax = 3.347220332577475 
+            text = "\ae" 
+        intervals [9]:
+            xmin = 3.347220332577475 
+            xmax = 4.008595269883655 
+            text = "" 
+        intervals [10]:
+            xmin = 4.008595269883655 
+            xmax = 4.270428117913832 
+            text = "\ab" 
+        intervals [11]:
+            xmin = 4.270428117913832 
+            xmax = 4.798174603174603 
+            text = "" 
+        intervals [12]:
+            xmin = 4.798174603174603 
+            xmax = 5.028505890160942 
+            text = "\hs" 
+        intervals [13]:
+            xmin = 5.028505890160942 
+            xmax = 5.771515495086923 
+            text = "" 
+        intervals [14]:
+            xmin = 5.771515495086923 
+            xmax = 6.122809302582822 
+            text = "u:" 
+        intervals [15]:
+            xmin = 6.122809302582822 
+            xmax = 6.724737012075574 
+            text = "" 
+        intervals [16]:
+            xmin = 6.724737012075574 
+            xmax = 6.948903215988552 
+            text = "\vt" 
+        intervals [17]:
+            xmin = 6.948903215988552 
+            xmax = 7.375351473922903 
+            text = "" 
